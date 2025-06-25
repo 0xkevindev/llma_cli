@@ -1,4 +1,4 @@
-# 🧠 GPT-CLI
+# 🧠 llma-CLI
 
 A simple and fast CLI tool to chat with the Groq LLaMA3 model straight from your terminal.
 Type a prompt, get a response. That's it.
@@ -18,8 +18,8 @@ Type a prompt, get a response. That's it.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/0xkevindev/gpt-cli.git
-cd gpt-cli
+git clone https://github.com/0xkevindev/llma_cli.git
+cd llma_cli
 ```
 
 ### 2. Set your API key
