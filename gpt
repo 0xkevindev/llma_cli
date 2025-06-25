@@ -32,4 +32,3 @@ fetch(endpoint, {
         console.log(response.choices[0].message.content);
     })
     .catch(err => console.error('Error:', err));
-kevin@archlinux:cli_ai$ 
