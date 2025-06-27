@@ -4,6 +4,7 @@ A simple and fast CLI tool to chat with the Groq LLaMA3 model straight from your
 Type a prompt, get a response. That's it.
 
 ---
+![Screenshot](./llma.png)
 
 ## ⚡ Features
 
